@@ -1,6 +1,6 @@
 # Running Unit Tests With Maven and Gradle
 
-This example application demonstrates how you convert from number to world
+This example application demonstrates how to convert from number to world
 
 ## Running Unit Tests With Maven
 
